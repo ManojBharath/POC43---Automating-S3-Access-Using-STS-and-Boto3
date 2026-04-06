@@ -1,0 +1,1 @@
+# POC43---Automating-S3-Access-Using-STS-and-Boto3
